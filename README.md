@@ -4,7 +4,7 @@ DynamoDB is great! This makes it greater for me with my lambada functions...
 
 ### Installing
 
-`go get github.com/tanelpuhu/keva`
+`go get lusikas.com/keva`
 
 
 
@@ -19,7 +19,7 @@ And then just write code like:
 package main
 
 import (
-	"github.com/tanelpuhu/keva"
+	"lusikas.com/keva"
 )
 
 func main() {
